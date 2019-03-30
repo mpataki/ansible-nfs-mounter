@@ -1,0 +1,14 @@
+galaxy_info:
+  role_name: nfs_mounter
+  author: Mat Pataki
+  description: 'mounts an NFS drive to you local filesystem'
+  company: 'n/a'
+  license: MIT
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: Debian
+      versions:
+        - stretch
+
+dependencies: []
