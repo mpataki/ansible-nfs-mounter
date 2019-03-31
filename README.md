@@ -1,5 +1,7 @@
 # ansible-nfs-mounter
 
+[![Build Status](https://travis-ci.org/mpataki/ansible-nfs-mounter.svg?branch=master)](https://travis-ci.org/mpataki/ansible-nfs-mounter)
+
 This ansible role mounts an NFS drive to the local filesystem, and ensures that it will remain mounted after restarts.
 
 ## Requirements
